@@ -1,6 +1,6 @@
 # Book Search Engine
 
-This application will allow users to compile all of their favorite books into one convenient place online! This app was originally created using RESTful API routes, and I was tasked with changing those routes over to GraphQL routes. With help from my instructor, the application now works exactly as intended, but there are still some issues to work out in regards to deploying the application to Heroku. Once these final issues are worked out, the application should be 100% functional!
+This application will allow users to compile all of their favorite books into one convenient place online! This app was originally created using RESTful API routes, and I was tasked with changing those routes over to GraphQL routes. Upon launching this application, a user will be allowed to search for books with help from the Google Books API. If they want to save a book, they will be told to sign up or login (which they can do from the NavBar). Upon signing up or logging in, the page will reset and the user may now save any searched book to their profile. Finally, the user can delete the book from their profile with the click of a button! In future updates, users will be able to re-add previously removed books to their profile.
 
 # Screenshot of Application
 
@@ -8,6 +8,4 @@ This application will allow users to compile all of their favorite books into on
 
 # Link to Live Application
 
-[https://evening-brook-32702.herokuapp.com/](https://evening-brook-32702.herokuapp.com/)*
-
-*The application is still being worked on, so the Heroku link currently does not work as it should 
+[https://evening-brook-32702.herokuapp.com/](https://evening-brook-32702.herokuapp.com/)
